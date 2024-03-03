@@ -1,4 +1,5 @@
-<img src="{https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white}" />
+![image]({[BadgeURLHere](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)}) 
+
 # Hi. I'm Gabriel Kant!
 
 - Backend Software Engineer at K Soft Solutions living in Douala, Cameroon
