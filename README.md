@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fgabykant)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Ftwitter.com%2Fgabykant?style=for-the-badge&logo=twitter&logoColor=white)
 
 # Hi. I'm Gabriel Kant!
 
