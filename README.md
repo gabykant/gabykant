@@ -10,11 +10,11 @@ PHP | Java | Go | Laravel Certified Developer | Cloud | Open Source Contributor
 - 9+ experience. I'm interested in Cloud, Big Data, Java PHP and GO programming language
 
 ## Technologies and Tools
-__Programming languags:__ PHP, Java, Python, Go_
-__Framework:__ Laravel, SpringBoot_
-__Cloud Deployment:__ AWS, Google Cloud_
-__Development Tools:__ Docker, Git, GitHub, GitLab_
-__API Development & Tools:__ Laravel Restful API, Swagger, Postman Desktop_
+__Programming languages:__ PHP, Java, Python, Go  
+__Framework:__ Laravel, SpringBoot  
+__Cloud Deployment:__ AWS, Google Cloud  
+__Development Tools:__ Docker, Git, GitHub, GitLab  
+__API Development & Tools:__ Laravel Restful API, Swagger, Postman Desktop  
 
 ## Featured Projects
 
