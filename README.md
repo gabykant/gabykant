@@ -2,5 +2,9 @@
 
 # Hi. I'm Gabriel Kant!
 
+PHP | Java | Go | Laravel Certified Developer | Cloud | Open Source Contributor
+
+# About Me 
+
 - Backend Software Engineer at K Soft Solutions living in Douala, Cameroon
 - 9+ experience. I'm interested in Cloud, Big Data, Java PHP and GO programming language
