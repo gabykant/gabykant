@@ -19,6 +19,7 @@ __API Development & Tools:__ Laravel Restful API, Swagger, Postman Desktop
 ## Featured Projects
 
 ## Publications / Articles
+ [Laravel SaaS Platform Multi-Tenancy Architecture with Shared Database](https://www.linkedin.com/posts/gabriel-kwaye-kant_laravel-saas-multi-activity-7314231332925001728-g4Aa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1v96ABbIoyjWOc_4a5sNjp98avTri4qkI)
 
 ## How to reach me
 - Email: gabrielkwaye@gmail.com
